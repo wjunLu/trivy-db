@@ -10,11 +10,11 @@ import (
 	bolt "go.etcd.io/bbolt"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/trivy-db/pkg/db"
-	"github.com/aquasecurity/trivy-db/pkg/types"
-	"github.com/aquasecurity/trivy-db/pkg/utils"
-	"github.com/aquasecurity/trivy-db/pkg/utils/strings"
-	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/vulnerability"
+	"github.com/wjunLu/trivy-db/pkg/db"
+	"github.com/wjunLu/trivy-db/pkg/types"
+	"github.com/wjunLu/trivy-db/pkg/utils"
+	"github.com/wjunLu/trivy-db/pkg/utils/strings"
+	"github.com/wjunLu/trivy-db/pkg/vulnsrc/vulnerability"
 )
 
 const (

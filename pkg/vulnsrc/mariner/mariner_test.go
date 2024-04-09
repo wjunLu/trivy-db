@@ -4,10 +4,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/aquasecurity/trivy-db/pkg/types"
-	cbl "github.com/aquasecurity/trivy-db/pkg/vulnsrc/mariner"
-	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/vulnerability"
-	"github.com/aquasecurity/trivy-db/pkg/vulnsrctest"
+	"github.com/wjunLu/trivy-db/pkg/types"
+	cbl "github.com/wjunLu/trivy-db/pkg/vulnsrc/mariner"
+	"github.com/wjunLu/trivy-db/pkg/vulnsrc/vulnerability"
+	"github.com/wjunLu/trivy-db/pkg/vulnsrctest"
 )
 
 func TestVulnSrc_Update(t *testing.T) {

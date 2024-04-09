@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aquasecurity/trivy-db/pkg/utils/strings"
+	"github.com/wjunLu/trivy-db/pkg/utils/strings"
 )
 
 func TestUnique(t *testing.T) {

@@ -7,9 +7,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/aquasecurity/trivy-db/pkg/db"
-	"github.com/aquasecurity/trivy-db/pkg/dbtest"
-	"github.com/aquasecurity/trivy-db/pkg/types"
+	"github.com/wjunLu/trivy-db/pkg/db"
+	"github.com/wjunLu/trivy-db/pkg/dbtest"
+	"github.com/wjunLu/trivy-db/pkg/types"
 )
 
 type Updater interface {

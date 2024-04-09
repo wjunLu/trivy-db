@@ -3,7 +3,7 @@ package bucket
 import (
 	"fmt"
 
-	"github.com/aquasecurity/trivy-db/pkg/types"
+	"github.com/wjunLu/trivy-db/pkg/types"
 )
 
 const separator = "::"

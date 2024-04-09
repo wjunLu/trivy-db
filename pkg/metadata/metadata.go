@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/trivy-db/pkg/db"
+	"github.com/wjunLu/trivy-db/pkg/db"
 )
 
 const metadataFile = "metadata.json"

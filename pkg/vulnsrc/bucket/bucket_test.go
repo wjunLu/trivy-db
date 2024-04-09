@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/aquasecurity/trivy-db/pkg/types"
-	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/bucket"
-	"github.com/aquasecurity/trivy-db/pkg/vulnsrc/vulnerability"
+	"github.com/wjunLu/trivy-db/pkg/types"
+	"github.com/wjunLu/trivy-db/pkg/vulnsrc/bucket"
+	"github.com/wjunLu/trivy-db/pkg/vulnsrc/vulnerability"
 )
 
 func TestBucketName(t *testing.T) {
