@@ -1,4 +1,4 @@
-module github.com/aquasecurity/trivy-db
+module github.com/wjunLu/trivy-db
 
 go 1.19
 
